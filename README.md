@@ -1,15 +1,15 @@
 # Hey, I'm Titouan or ImMyst 👋
 
-[![Website](https://img.shields.io/website?label=titouan-galvani.fr&logo=personal-website&style=for-the-badge&up_color=yellow&up_message=WIP&url=https%3A%2F%2Ftitouan-galvani.fr%2F)](https://titouan-galvani.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ImMyst_?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ImMyst_)
+[![Website](https://img.shields.io/website?label=titouan-galvani.fr&logo=personal-website&style=for-the-badge&up_color=yellow&up_message=WIP&url=https%3A%2F%2Ftitouan-galvani.fr%2F)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/ImMyst_?color=%231DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a student, web developer, and french 🇫🇷 !
 
-- ⚽️ I'm currently working for [NGTV Experience](ngtv)
-- 🎓 I'm currently finishing my last year of shool at [Ynov](ynov)
+- ⚽️ I'm currently working for [NGTV Experience][ngtv]
+- 🎓 I'm currently finishing my last year of shool at [Ynov][ynov]
 - 💄 I'm looking to become a front end developer
 - 🥅 2020-2021 Goal: Becoming a better person everyday
-- ❤️ [NuxtJS](nuxt) is my sweet little baby
+- ❤️ [NuxtJS][nuxt] is my sweet little baby
 
 ### Connect with me
 
