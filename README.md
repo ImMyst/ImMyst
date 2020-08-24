@@ -11,10 +11,6 @@
 - 🥅 2020-2021 Goal: Becoming a better person everyday
 - ❤️ [NuxtJS](nuxt) is my sweet little baby
 
-### Music Playing 🎧
-
-[![Spotify](https://novatorem.immyst1.vercel.app/api/spotify)](https://open.spotify.com/user/immyst)
-
 ### Connect with me
 
 [<img align="left" alt="titouan-galvani.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
