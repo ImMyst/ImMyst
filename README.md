@@ -1,7 +1,7 @@
 # Hey, I'm Titouan or ImMyst 👋
 
-![Website](https://img.shields.io/website?label=titouan-galvani.fr&logo=personal-website&style=for-the-badge&up_color=yellow&up_message=WIP&url=https%3A%2F%2Ftitouan-galvani.fr%2F)
-![Twitter Follow](https://img.shields.io/twitter/follow/ImMyst_?color=%231DA1F2&logo=twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=titouan-galvani.fr&logo=personal-website&style=for-the-badge&up_color=yellow&up_message=WIP&url=https%3A%2F%2Ftitouan-galvani.fr%2F)](https://titouan-galvani.fr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ImMyst_?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ImMyst_)
 
 ## I'm a student, web developer, and french 🇫🇷 !
 
