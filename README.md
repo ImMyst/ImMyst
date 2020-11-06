@@ -8,7 +8,7 @@
 - ⚽️ I'm currently working for [NGTV Experience][ngtv]
 - 🎓 I'm currently finishing my last year of shool at [Ynov][ynov]
 - 💄 I'm looking to become a front end developer
-- 🥅 2020-2021 Goal: Becoming a better person everyday
+- 🥅 2020-2021 Goal: Increasing my front and back end skills
 - ❤️ [NuxtJS][nuxt] is my sweet little baby
 
 ### Connect with me
@@ -37,13 +37,14 @@
 </p>
 
 ---
+
 <details>
   <summary>💡 Important Repos</summary>
   <br>
 
-  [![ReadMe Card](https://github-readme-stats.immyst1.vercel.app/api/pin/?username=ImMyst&repo=Personal-site)](https://github.com/ImMyst/Personal-site)
+[![ReadMe Card](https://github-readme-stats.immyst1.vercel.app/api/pin/?username=ImMyst&repo=Personal-site)](https://github.com/ImMyst/Personal-site)
 
-  [![ReadMe Card](https://github-readme-stats.immyst1.vercel.app/api/pin/?username=ImMyst&repo=Once-Agaaain)](https://github.com/ImMyst/Once-Agaaain)
+[![ReadMe Card](https://github-readme-stats.immyst1.vercel.app/api/pin/?username=ImMyst&repo=Once-Agaaain)](https://github.com/ImMyst/Once-Agaaain)
 
 </details>
 
