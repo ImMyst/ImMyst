@@ -46,6 +46,8 @@
 
 [![ReadMe Card](https://github-readme-stats.immyst1.vercel.app/api/pin/?username=ImMyst&repo=Once-Agaaain)](https://github.com/ImMyst/Once-Agaaain)
 
+[![ReadMe Card](https://github-readme-stats.immyst1.vercel.app/api/pin/?username=ImMyst&repo=create-project)](https://github.com/ImMyst/create-project)
+
 </details>
 
 <details>
