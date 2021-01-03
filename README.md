@@ -8,7 +8,7 @@
 - ⚽️ I'm currently working for [NGTV Experience][ngtv]
 - 🎓 I'm currently finishing my last year of shool at [Ynov][ynov]
 - 💄 I'm looking to become a front end developer
-- 🥅 2020-2021 Goal: Increasing my front and back end skills
+- 🥅 2021 Goal: Increasing my front and back end skills
 - ❤️ [NuxtJS][nuxt] is my sweet little baby
 
 ### Connect with me
