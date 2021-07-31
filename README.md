@@ -5,7 +5,8 @@
 
 ## I'm a student, web developer, and french 🇫🇷 !
 
-- ⚽️ I'm currently working for [NGTV Experience][ngtv]
+- 👨‍💻 I'm looking for a web frontend developer job
+- 🕸 I'm currently learning [React][react] and [Next][next]
 - 🎓 I'm currently finishing my last year of shool at [Ynov][ynov]
 - 💄 I'm looking to become a front end developer
 - 🥅 2021 Goal: Increasing my front and back end skills
@@ -24,9 +25,10 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="36" height="36"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="36" height="36"/>
+  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="nextjs" width="56" />
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="36" height="36"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="36" height="36"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
   <img alt="Visual Studio Code" width="36" height="36" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/> 
@@ -54,7 +56,8 @@
   <img align="left" alt="ImMyst's Github Stats" src="https://github-readme-stats.immyst1.vercel.app/api?username=ImMyst&show_icons=true&hide_border=true" />
 </details>
 
-[ngtv]: https://ngtvexperience.com
+[react]: https://fr.reactjs.org/
+[next]: https://nextjs.org/
 [ynov]: https://ynov.com
 [nuxt]: https://nuxtjs.org/
 [website]: https://titouan-galvani.fr
