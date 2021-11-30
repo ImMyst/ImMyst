@@ -5,12 +5,10 @@
 
 ## I'm a student, web developer, and french 🇫🇷 !
 
-- 👨‍💻 I'm looking for a web frontend developer job
-- 🕸 I'm currently learning [React][react] and [Next][next]
-- 🎓 I'm currently finishing my last year of shool at [Ynov][ynov]
-- 💄 I'm looking to become a front end developer
-- 🥅 2021 Goal: Increasing my front and back end skills
-- ❤️ [NuxtJS][nuxt] is my sweet little baby
+- 👨‍💻 I'm working for an awesome company, [Yeap][yeap]
+- 🕸 Working with [React][react], [TypeScript][typescript] and [Tailwind][tailwind]
+- 🥅 2022 Goal: Increasing my skills with React and TypeScript
+- 💄 Kompot will return soon ...
 
 ### Connect with me
 
@@ -56,10 +54,10 @@
   <img align="left" alt="ImMyst's Github Stats" src="https://github-readme-stats.immyst1.vercel.app/api?username=ImMyst&show_icons=true&hide_border=true" />
 </details>
 
+[yeap]: https://yeap.ai
 [react]: https://fr.reactjs.org/
-[next]: https://nextjs.org/
-[ynov]: https://ynov.com
-[nuxt]: https://nuxtjs.org/
+[typescript]: https://typescriptlang.org/
+[tailwind]: https://tailwindcss.com
 [website]: https://titouan-galvani.fr
 [twitter]: https://twitter.com/ImMyst_
 [linkedin]: https://www.linkedin.com/in/titouan-galvani
