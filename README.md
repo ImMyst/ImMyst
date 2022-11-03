@@ -10,7 +10,7 @@
 
 You can maybe see a pattern repeating in my projects, I hope it will make sense later on 😉
 
-### You can found me here :
+### You can find me here :
 
 [<img align="left" alt="ImMyst | Twitter" width="36px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg">][twitter]
 [<img align="left" alt="Titouan Galvani | LinkedIn" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
