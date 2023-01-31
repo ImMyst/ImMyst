@@ -3,10 +3,11 @@
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
 - 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more awesome tools
-- 🥅 2022 Goals:
-  - Increasing my skills with React and TypeScript
-  - 🔓 Contribute to more open source projects
+- 🥅 2023 Goals:
+  - 🔓 Contribute to open source projects
   - 📜 Release a [quote][kuotes] app
+  - 💄 Make my own UI Library ([Kompot][kompot]) maybe
+  - 🎓 Learn Rust, tRPC, Prisma and more ...
 
 You can maybe see a pattern repeating in my projects, I hope it will make sense later on 😉
 
@@ -32,6 +33,7 @@ You can maybe see a pattern repeating in my projects, I hope it will make sense 
 
 [yeap]: https://yeap.ai
 [kuotes]: https://github.com/immyst/kuotes
+[kompot]: https://github.com/immyst/kompot
 [react]: https://fr.reactjs.org/
 [typescript]: https://typescriptlang.org/
 [tailwind]: https://tailwindcss.com
