@@ -22,6 +22,7 @@ You can maybe see a pattern repeating in my projects, I hope it will make sense 
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="reactjs" width="36" height="36"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="nuxtjs" width="36" height="36"/>
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="36" height="36"/>
