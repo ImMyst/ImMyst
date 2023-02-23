@@ -7,7 +7,7 @@
   - 🔓 Contribute to open source projects
   - 📜 Release a [quote][kuotes] app
   - 💄 Make my own UI Library ([Kompot][kompot]) maybe
-  - 🎓 Learn Rust, tRPC, Solid, Svelte, some Deno and more ...
+  - 🎓 Learn Rust, tRPC, Solid, Svelte and more ...
 
 You can maybe see a pattern repeating in my projects, I hope it will make sense later on 😉
 
