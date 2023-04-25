@@ -21,15 +21,15 @@ You can maybe see a pattern repeating in my projects, I hope it will make sense 
 ### Languages and Tools :
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="reactjs" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="nuxtjs" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="36" height="36"/>
-  <img alt="Visual Studio Code" width="36" height="36" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="36" height="36"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="reactjs" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="nuxtjs" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="36" height="36" /> 
 </p>
 
 [yeap]: https://yeap.ai
