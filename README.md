@@ -2,12 +2,12 @@
 ## I'm a 🇫🇷 front-end web developer !
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
-- 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more awesome tools
+- 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more
 - 🥅 2023 Goals:
   - 🔓 Contribute to open source projects
   - 📜 Release a [quote][kuotes] app
   - 💄 Make my own UI Library ([Kompot][kompot]) maybe
-  - 🎓 Learn Rust, tRPC, Solid, Svelte and more ...
+  - 🎓 Learn and try new things (tRPC, Svelte, Solid, Drizzle ...)
 
 You can maybe see a pattern repeating in my projects, I hope it will make sense later on 😉
 
@@ -29,7 +29,7 @@ You can maybe see a pattern repeating in my projects, I hope it will make sense 
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="36" height="36" />
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="36" height="36" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="36" height="36" /> 
 </p>
 
 [yeap]: https://yeap.ai
