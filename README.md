@@ -1,4 +1,5 @@
 # Hey, I'm Titouan, Titou or ImMyst 👋
+
 ## I'm a 🇫🇷 front-end web developer !
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
@@ -7,7 +8,7 @@
   - 🔓 Contribute to open source projects
   - 📜 Release a [quote][kuotes] app
   - 💄 Make my own UI Library ([Kompot][kompot]) maybe
-  - 🎓 Learn and try new things (tRPC, Svelte, Solid, Drizzle ...)
+  - 🎓 Learn and try new things (Astro, Svelte, Solid, Drizzle ...)
 
 You may notice a repeating pattern in my projects, I hope it will make sense later on 😉
 
