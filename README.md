@@ -4,11 +4,6 @@
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
 - 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more
-- 🥅 2023 Goals:
-  - 🔓 Contribute to open source projects
-  - 📜 Release a [quote][kuotes] app
-  - 💄 Make my own UI Library ([Kompot][kompot]) maybe
-  - 🎓 Learn and try new things (Astro, Svelte, Solid, Drizzle ...)
 
 You may notice a repeating pattern in my projects, I hope it will make sense later on 😉
 
