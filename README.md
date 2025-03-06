@@ -20,6 +20,7 @@ You may notice a repeating pattern in my projects, I hope it will make sense lat
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" />
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="36" height="36" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />
   <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" /> 
