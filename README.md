@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
 - 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more
-- Currently learning and testing [AdonisJS][], [Tanstack Start][tanstack-start] and [PandaCSS][pandacss] and more
+- 📚 Currently learning and testing [AdonisJS][], [Tanstack Start][tanstack-start] and [PandaCSS][pandacss] and more
 
 You may notice a repeating pattern in my projects, I hope it will make sense later on 😉
 
