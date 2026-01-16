@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
 - 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more
-- 📚 Currently learning and exploring [AdonisJS][adonisjs], [Hono][hono] and [Tanstack Start][tanstack-start] and more 
+- 📚 Currently learning and exploring [AdonisJS][adonisjs], [Hono][hono], [Effect][effect] and [Tanstack Start][tanstack-start] and more 
 
 You may notice a repeating pattern in my projects; I hope it will make sense later on 😉
 
@@ -35,6 +35,7 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 [typescript]: https://typescriptlang.org/
 [tailwind]: https://tailwindcss.com
 [adonisjs]: https://adonisjs.com
+[effect]: https://effect.website
 [hono]: https://hono.dev
 [tanstack-start]: https://tanstack.com/start
 [pandacss]: https://panda-css.com
