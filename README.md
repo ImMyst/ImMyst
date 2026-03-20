@@ -18,23 +18,20 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 ### Languages and Tools :
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" />
-  <img src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" /> 
+  <a href="https://typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" /></a>
+  <a href="https://react.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" /></a>
+  <a href="https://adonisjs.com"><img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" /></a>
+  <a href="https://effect.website"><img src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" /></a>
+  <a href="https://tailwindcss.com"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" /></a>
+  <a href="https://figma.com"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" /></a>
 </p>
 
 [yeap]: https://yeap.ai
-[kuotes]: https://github.com/immyst/kuotes
-[kompot]: https://github.com/immyst/kompot
-[react]: https://fr.reactjs.org/
+[react]: https://react.dev/
 [typescript]: https://typescriptlang.org/
 [tailwind]: https://tailwindcss.com
 [adonisjs]: https://adonisjs.com
 [effect]: https://effect.website
 [tanstack-start]: https://tanstack.com/start
-[pandacss]: https://panda-css.com
 [twitter]: https://twitter.com/ImMyst_
 [linkedin]: https://www.linkedin.com/in/titouan-galvani
