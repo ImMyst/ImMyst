@@ -17,14 +17,15 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 
 ### Languages and Tools :
 
-<p align="left">
-  <a href="https://typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" /></a>
-  <a href="https://react.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" /></a>
-  <a href="https://adonisjs.com"><img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" /></a>
-  <a href="https://effect.website"><img src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" /></a>
-  <a href="https://tailwindcss.com"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" /></a>
-  <a href="https://figma.com"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" /></a>
-</p>
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" />
+  <img src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" />
+</div>
+
 
 [yeap]: https://yeap.ai
 [react]: https://react.dev/
