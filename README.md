@@ -17,13 +17,14 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 
 ### Languages and Tools :
 
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />][typescript]
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />][react]
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" />][adonisjs]
-[<img align="left" src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" />][effect]
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />][tailwind]
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" />][figma]
-
+<div>
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" />
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" />
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" />
+  <img align="left" src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" />
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" />
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="22" />
+</div>
 
 [yeap]: https://yeap.ai
 [react]: https://react.dev/
