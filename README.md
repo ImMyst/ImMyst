@@ -17,14 +17,12 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 
 ### Languages and Tools :
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" />
-  <img src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" />
-</div>
+[<img align="left" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" height="36" />][typescript]
+[<img align="left" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" height="36" />][react]
+[<img align="left" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" height="36" />][adonisjs]
+[<img align="left" src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" height="36" />][effect]
+[<img align="left" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" height="36" />][tailwind]
+[<img align="left" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="36" height="36" />][figma]
 
 
 [yeap]: https://yeap.ai
@@ -34,5 +32,6 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 [adonisjs]: https://adonisjs.com
 [effect]: https://effect.website
 [tanstack-start]: https://tanstack.com/start
+[figma]: https://www.figma.com/
 [twitter]: https://twitter.com/ImMyst_
 [linkedin]: https://www.linkedin.com/in/titouan-galvani
