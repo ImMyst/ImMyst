@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm working for a french startup, [Yeap][yeap]
 - 🕸 Working with [React][react], [TypeScript][typescript], [Tailwind][tailwind] and more
-- 📚 Currently learning and exploring [AdonisJS][adonisjs], [Effect][effect] and [Tanstack Start][tanstack-start] and more 
+- 📚 Currently learning and exploring [Effect][effect], [AdonisJS][adonisjs] and [Tanstack Start][tanstack-start] and more
 
 You may notice a repeating pattern in my projects; I hope it will make sense later on 😉
 
@@ -20,8 +20,8 @@ You may notice a repeating pattern in my projects; I hope it will make sense lat
 <div>
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescriptlang" width="36" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="36" />
-  <img align="left" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" />
   <img align="left" src="https://effect.website/icon.png?dc1624f3c72c6599" alt="effectts" width="36" />
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="adonisjs" width="36" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="36" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="22" />
 </div>
